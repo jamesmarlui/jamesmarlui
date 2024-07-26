@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning Systems engineering on San Carlos University Guatemala, its an honnor for me work on this, i want to learnd a lot about all reating with programing
 <!--
 **jamesmarlui/jamesmarlui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
